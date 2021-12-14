@@ -1,4 +1,4 @@
-Hi I'm Samantha, programming nerd passionnate about web and mobile developpment.
+Hi I'm a programming nerd passionnate about web and mobile developpment.
 
 Big fan of javascript and its framework - React, react native, Vue JS... -
 
