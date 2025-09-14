@@ -5,7 +5,7 @@ See more in my portfolio: https://my-portfolio-sepia-eight-45.vercel.app/
 Here are my top personal projects:
 
 | Name | Description | Technologies | Link |
-| - | - | - |
+| - | - | - | - |
 | **HangeulGo** | A mobile app for learning Korean in a fun way | React native, expo | [Playstore link](https://play.google.com/store/apps/details?id=com.sdeschaepmeester.hangeulgo) |
 | **DovePigeonGuide** | A website about the PROPER care of doves and pigeons | Next, T3 stack, Resend, postgres supabase, Github CI | [Website link](http://www.dovepigeonguide.com/) |
 | **FullRemoteSeekers** | A recruitment platform for remote tech professionals | React TS, Python FastApi | In development |
